@@ -4,7 +4,6 @@ import User.UserDAO;
 import User.User;
 import com.google.gson.JsonObject;
 
-import javax.jws.soap.SOAPBinding;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

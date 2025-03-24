@@ -1,7 +1,5 @@
 package Quiz;
 
-import javafx.concurrent.Task;
-
 import java.util.ArrayList;
 
 public class Quiz {
