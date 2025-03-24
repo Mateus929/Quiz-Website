@@ -130,7 +130,7 @@ Before you begin, ensure you have the following installed:
 ## 📸 Gallery 🎨
 
 ### **User Authentication** 🔑
-![Login Page](assets/Login.png)
+![Login Page](assets/login.png)
 
 ### **Quiz Management** 📋
 ![Quiz Creation](assets/quiz_creation.png)
@@ -139,7 +139,7 @@ Before you begin, ensure you have the following installed:
 ![Quiz Configuration](assets/quizz_taking.png)
 
 ### **Profile Page** 🏷️
-![Friends](assets/Profile-page.png)
+![Friends](assets/profile-page.png)
 
 ### **Messaging** 📧
 ![Messaging](assets/mail.png)
