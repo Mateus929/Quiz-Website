@@ -63,7 +63,7 @@ To get started with the **QuizWebsite** application, follow these steps:
 
 ### Prerequisites 🛠️
 Before you begin, ensure you have the following installed:
-- **Java JDK** (version 8 or higher) ☕
+- **Java JDK** ☕ (version 8 or higher)
 - **Maven** ⚙️ (for building the project)
 - **MySQL** 🗄️ (for database management)
 - **Tomcat 7** 🌐 (for running the web application)
@@ -126,6 +126,7 @@ Before you begin, ensure you have the following installed:
 
 - If you encounter issues with MySQL, ensure that the database is properly set up and the connection details in `DataBaseUserProperties.java` are correct.
 - For any build errors, check the Maven console for missing dependencies and run `mvn clean install` to resolve them.
+- Before running the application, ensure that port **8080** is free. If port **8080** is already in use, you can change the port number in `pom.xml`.
 
 ## 📸 Gallery 🎨
 
